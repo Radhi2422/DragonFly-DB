@@ -9,3 +9,6 @@ Real-Time Collaborative Task Manager
 Create and manage projects and tasks, Real-time updates across clients (e.g., if one user adds a task, others see it instantly), User 
 authentication, Session storage in DragonflyDB, Pub/Sub for real-time task notifications, Caching frequently accessed data 
 (e.g., user profile, task list)
+#Commit 1:
+I have uploaded the code done till now, not doing much but backend is on its way.
+Will try to keep updating more soon.
